@@ -1,0 +1,24 @@
+#btnaddstores {
+  margin-bottom: 10px;
+}
+
+#td1 {
+  padding: 13px;
+}
+
+#td2 {
+  width: 9%;
+}
+
+#td3 {
+  width: 20%;
+}
+
+.error {
+  border: 1px solid;
+  border-color: red;
+}
+
+.text-grey {
+  color: grey;
+}
